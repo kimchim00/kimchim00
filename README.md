@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimchim00
-- 👀 I’m interested in learning how to code for making games on unity.
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on making a game on unity.
+- 👀 I’m interested in learning how to make aesthic websites.
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on making websites.
 - 📫 How to reach me kimiamashhadizadeh@gmail.com
 
 <!---
